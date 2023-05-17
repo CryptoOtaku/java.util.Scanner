@@ -1,0 +1,7 @@
+int number = scanner.nextInt();
+        
+        int factorial = calculateFactorial(number);
+        
+        System.out.println("Факториал числа " + number + " равен " + factorial);
+    }
+    
